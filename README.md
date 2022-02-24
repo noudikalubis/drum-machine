@@ -1,6 +1,6 @@
 # Drum Machine
 
-Drum Machine Project is built with React.js, Check the live preview here:
+This Drum Machine Project is built with React.js, Check the live preview here:
 https://noudikalubis.github.io/drum-machine/
 
 ## Available Scripts
