@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Drum Machine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Drum Machine Project is built with React.js, Check the live preview here:
+https://noudikalubis.github.io/drum-machine/
 
 ## Available Scripts
 
