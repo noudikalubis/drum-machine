@@ -1,4 +1,4 @@
-import React, { useEffect} from 'react';
+import React, {useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
@@ -73,7 +73,7 @@ const KeyboardKey = ({ play, sound: { id, keyTrigger, url, keyCode } }) => {
   }, []);
 
   return (
-    <button className="drum-pad" id={keyTrigger} onClick={() => play(keyTrigger, id)}>
+    <button className="drum-pad" id={id} onClick={() => play(keyTrigger, id)}>
       <audio className = "clip" id={keyTrigger} src = {url} />
       {keyTrigger}
     </button>    
